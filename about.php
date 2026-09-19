@@ -1,3 +1,3 @@
-<?PHP 
-    echo "Welcome to the About page!";
+<?php 
+    echo "Welcome to the testing page!";
 ?>
